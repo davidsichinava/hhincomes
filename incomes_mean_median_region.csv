@@ -1,0 +1,853 @@
+year,RegNo,category,income,measure,type
+2002,Kakheti,mean_income,229.19150778943177,Mean,Nominal values
+2002,Kakheti,median_income,154.5716589157847,Median,Nominal values
+2002,Kakheti,income_mean_infl,392.58963790931153,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Kakheti,income_median_infl,264.77085556128833,Median,Adjusted to inflation (base: 2010 prices)
+2002,Tbilisi,mean_income,215.08057134354254,Mean,Nominal values
+2002,Tbilisi,median_income,147.8349526638836,Median,Nominal values
+2002,Tbilisi,income_mean_infl,368.41855284911543,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Tbilisi,income_median_infl,253.2313308483347,Median,Adjusted to inflation (base: 2010 prices)
+2002,Shida Kartli,mean_income,231.65300944729705,Mean,Nominal values
+2002,Shida Kartli,median_income,157.01124260696767,Median,Nominal values
+2002,Shida Kartli,income_mean_infl,396.8060246938618,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Shida Kartli,income_median_infl,268.9496983430676,Median,Adjusted to inflation (base: 2010 prices)
+2002,Kvemo Kartli,mean_income,255.5224737098499,Mean,Nominal values
+2002,Kvemo Kartli,median_income,190.88085724597468,Median,Nominal values
+2002,Kvemo Kartli,income_mean_infl,437.69281156614994,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Kvemo Kartli,income_median_infl,326.96607022134896,Median,Adjusted to inflation (base: 2010 prices)
+2002,Samtskhe-Javakheti,mean_income,228.8280066700134,Mean,Nominal values
+2002,Samtskhe-Javakheti,median_income,168.07231124840808,Median,Nominal values
+2002,Samtskhe-Javakheti,income_mean_infl,391.9669849400611,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Samtskhe-Javakheti,income_median_infl,287.8965649818732,Median,Adjusted to inflation (base: 2010 prices)
+2002,Adjara A.R.,mean_income,253.06220449360967,Mean,Nominal values
+2002,Adjara A.R.,median_income,195.6287546544541,Median,Nominal values
+2002,Adjara A.R.,income_mean_infl,433.47853587121205,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Adjara A.R.,income_median_infl,335.09889914857956,Median,Adjusted to inflation (base: 2010 prices)
+2002,Guria,mean_income,246.22627955366505,Mean,Nominal values
+2002,Guria,median_income,203.89722935027999,Median,Nominal values
+2002,Guria,income_mean_infl,421.7690562188781,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Guria,income_median_infl,349.26224018248445,Median,Adjusted to inflation (base: 2010 prices)
+2002,Samegrelo-Zemo Svaneti,mean_income,256.72168797952577,Mean,Nominal values
+2002,Samegrelo-Zemo Svaneti,median_income,217.72199611210382,Median,Nominal values
+2002,Samegrelo-Zemo Svaneti,income_mean_infl,439.74698495350026,Mean,Adjusted to inflation (base: 2010 prices)
+2002,Samegrelo-Zemo Svaneti,income_median_infl,372.94313582104166,Median,Adjusted to inflation (base: 2010 prices)
+2002,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,275.1546567229452,Mean,Nominal values
+2002,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,240.65604815998256,Median,Nominal values
+2002,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,471.32142064865377,Mean,Adjusted to inflation (base: 2010 prices)
+2002,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,412.2276244834317,Median,Adjusted to inflation (base: 2010 prices)
+2003,Kakheti,mean_income,247.67934194335567,Mean,Nominal values
+2003,Kakheti,median_income,181.4457435618103,Median,Nominal values
+2003,Kakheti,income_mean_infl,404.88348729610493,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Kakheti,income_median_infl,296.6108712657266,Median,Adjusted to inflation (base: 2010 prices)
+2003,Tbilisi,mean_income,244.50445767340352,Mean,Nominal values
+2003,Tbilisi,median_income,183.33333333333334,Median,Nominal values
+2003,Tbilisi,income_mean_infl,399.6934774838463,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Tbilisi,income_median_infl,299.69653001821746,Median,Adjusted to inflation (base: 2010 prices)
+2003,Shida Kartli,mean_income,290.4094341978775,Mean,Nominal values
+2003,Shida Kartli,median_income,219.0340204027904,Median,Nominal values
+2003,Shida Kartli,income_mean_infl,474.7347257108604,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Shida Kartli,income_median_infl,358.0567411126676,Median,Adjusted to inflation (base: 2010 prices)
+2003,Kvemo Kartli,mean_income,232.29185624328977,Mean,Nominal values
+2003,Kvemo Kartli,median_income,165.65320018254525,Median,Nominal values
+2003,Kvemo Kartli,income_mean_infl,379.7294360051157,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Kvemo Kartli,income_median_infl,270.7946688061198,Median,Adjusted to inflation (base: 2010 prices)
+2003,Samtskhe-Javakheti,mean_income,239.6313937628526,Mean,Nominal values
+2003,Samtskhe-Javakheti,median_income,179.88370847055245,Median,Nominal values
+2003,Samtskhe-Javakheti,income_mean_infl,391.7274392408512,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Samtskhe-Javakheti,income_median_infl,294.0573994659993,Median,Adjusted to inflation (base: 2010 prices)
+2003,Adjara A.R.,mean_income,243.92974356193818,Mean,Nominal values
+2003,Adjara A.R.,median_income,167.0882464660614,Median,Nominal values
+2003,Adjara A.R.,income_mean_infl,398.75398752952634,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Adjara A.R.,income_median_infl,273.1405509420398,Median,Adjusted to inflation (base: 2010 prices)
+2003,Guria,mean_income,273.64383241477054,Mean,Nominal values
+2003,Guria,median_income,218.10173803953273,Median,Nominal values
+2003,Guria,income_mean_infl,447.3278565577819,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Guria,income_median_infl,356.5327313530376,Median,Adjusted to inflation (base: 2010 prices)
+2003,Samegrelo-Zemo Svaneti,mean_income,260.1451417287696,Mean,Nominal values
+2003,Samegrelo-Zemo Svaneti,median_income,187.85071262166497,Median,Nominal values
+2003,Samegrelo-Zemo Svaneti,income_mean_infl,425.2614342393253,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Samegrelo-Zemo Svaneti,income_median_infl,307.0811276408856,Median,Adjusted to inflation (base: 2010 prices)
+2003,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,308.98439437627906,Mean,Nominal values
+2003,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,247.1235091568033,Median,Nominal values
+2003,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,505.0993681328251,Mean,Adjusted to inflation (base: 2010 prices)
+2003,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,403.9748628011953,Median,Adjusted to inflation (base: 2010 prices)
+2003,Mtskheta-Mtianeti,mean_income,224.8867538878276,Mean,Nominal values
+2003,Mtskheta-Mtianeti,median_income,168.76840243508246,Median,Nominal values
+2003,Mtskheta-Mtianeti,income_mean_infl,367.6242533849608,Mean,Adjusted to inflation (base: 2010 prices)
+2003,Mtskheta-Mtianeti,income_median_infl,275.88711592643074,Median,Adjusted to inflation (base: 2010 prices)
+2004,Kakheti,mean_income,292.57876473838525,Mean,Nominal values
+2004,Kakheti,median_income,212.83891661977023,Median,Nominal values
+2004,Kakheti,income_mean_infl,452.6757768211199,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Kakheti,income_median_infl,329.3028528737229,Median,Adjusted to inflation (base: 2010 prices)
+2004,Tbilisi,mean_income,277.4036791729424,Mean,Nominal values
+2004,Tbilisi,median_income,217.1570822891861,Median,Nominal values
+2004,Tbilisi,income_mean_infl,429.19699273094096,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Tbilisi,income_median_infl,335.98388798094595,Median,Adjusted to inflation (base: 2010 prices)
+2004,Shida Kartli,mean_income,282.5615752093401,Mean,Nominal values
+2004,Shida Kartli,median_income,202.81477552624875,Median,Nominal values
+2004,Shida Kartli,income_mean_infl,437.1772526692405,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Shida Kartli,income_median_infl,313.7935733108954,Median,Adjusted to inflation (base: 2010 prices)
+2004,Kvemo Kartli,mean_income,226.01870901536353,Mean,Nominal values
+2004,Kvemo Kartli,median_income,174.1165351655708,Median,Nominal values
+2004,Kvemo Kartli,income_mean_infl,349.69453361087767,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Kvemo Kartli,income_median_infl,269.39186062923426,Median,Adjusted to inflation (base: 2010 prices)
+2004,Samtskhe-Javakheti,mean_income,295.03008691207333,Mean,Nominal values
+2004,Samtskhe-Javakheti,median_income,213.9528472440298,Median,Nominal values
+2004,Samtskhe-Javakheti,income_mean_infl,456.4684449944417,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Samtskhe-Javakheti,income_median_infl,331.02631838603514,Median,Adjusted to inflation (base: 2010 prices)
+2004,Adjara A.R.,mean_income,233.72968688573687,Mean,Nominal values
+2004,Adjara A.R.,median_income,192.3943461324007,Median,Nominal values
+2004,Adjara A.R.,income_mean_infl,361.62490354269033,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Adjara A.R.,income_median_infl,297.6711593179056,Median,Adjusted to inflation (base: 2010 prices)
+2004,Guria,mean_income,286.78504931288256,Mean,Nominal values
+2004,Guria,median_income,240.35880394766423,Median,Nominal values
+2004,Guria,income_mean_infl,443.7117816615086,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Guria,income_median_infl,371.88142615235193,Median,Adjusted to inflation (base: 2010 prices)
+2004,Samegrelo-Zemo Svaneti,mean_income,288.9506898494907,Mean,Nominal values
+2004,Samegrelo-Zemo Svaneti,median_income,223.3776704049513,Median,Nominal values
+2004,Samegrelo-Zemo Svaneti,income_mean_infl,447.0624452447012,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Samegrelo-Zemo Svaneti,income_median_infl,345.60833752056357,Median,Adjusted to inflation (base: 2010 prices)
+2004,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,330.7107029749546,Mean,Nominal values
+2004,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,270.3275770536493,Median,Nominal values
+2004,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,511.6732395329766,Mean,Adjusted to inflation (base: 2010 prices)
+2004,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,418.24889803042237,Median,Adjusted to inflation (base: 2010 prices)
+2004,Mtskheta-Mtianeti,mean_income,237.33980096451907,Mean,Nominal values
+2004,Mtskheta-Mtianeti,median_income,162.27070289732382,Median,Nominal values
+2004,Mtskheta-Mtianeti,income_mean_infl,367.2104462818801,Mean,Adjusted to inflation (base: 2010 prices)
+2004,Mtskheta-Mtianeti,income_median_infl,251.06407348133166,Median,Adjusted to inflation (base: 2010 prices)
+2005,Kakheti,mean_income,315.1754929789185,Mean,Nominal values
+2005,Kakheti,median_income,226.48889923154258,Median,Nominal values
+2005,Kakheti,income_mean_infl,450.48549300421365,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Kakheti,income_median_infl,323.72429234885885,Median,Adjusted to inflation (base: 2010 prices)
+2005,Tbilisi,mean_income,326.6426667843084,Mean,Nominal values
+2005,Tbilisi,median_income,247.32416074639644,Median,Nominal values
+2005,Tbilisi,income_mean_infl,466.87571229525355,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Tbilisi,income_median_infl,353.5044728022245,Median,Adjusted to inflation (base: 2010 prices)
+2005,Shida Kartli,mean_income,286.46222455096813,Mean,Nominal values
+2005,Shida Kartli,median_income,208.73788340006593,Median,Nominal values
+2005,Shida Kartli,income_mean_infl,409.44514827032685,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Shida Kartli,income_median_infl,298.3524747541982,Median,Adjusted to inflation (base: 2010 prices)
+2005,Kvemo Kartli,mean_income,250.36563716455603,Mean,Nominal values
+2005,Kvemo Kartli,median_income,200,Median,Nominal values
+2005,Kvemo Kartli,income_mean_infl,357.85170484982206,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Kvemo Kartli,income_median_infl,285.8632749306722,Median,Adjusted to inflation (base: 2010 prices)
+2005,Samtskhe-Javakheti,mean_income,266.2550190532062,Mean,Nominal values
+2005,Samtskhe-Javakheti,median_income,206.07162092388603,Median,Nominal values
+2005,Samtskhe-Javakheti,income_mean_infl,380.56265856639027,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Samtskhe-Javakheti,income_median_infl,294.5415421378705,Median,Adjusted to inflation (base: 2010 prices)
+2005,Adjara A.R.,mean_income,272.6151079612262,Mean,Nominal values
+2005,Adjara A.R.,median_income,203,Median,Nominal values
+2005,Adjara A.R.,income_mean_infl,389.6532377868745,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Adjara A.R.,income_median_infl,290.15122405463234,Median,Adjusted to inflation (base: 2010 prices)
+2005,Guria,mean_income,316.91031339663056,Mean,Nominal values
+2005,Guria,median_income,249.77531104537354,Median,Nominal values
+2005,Guria,income_mean_infl,452.9651002343325,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Guria,income_median_infl,357.00794206128893,Median,Adjusted to inflation (base: 2010 prices)
+2005,Samegrelo-Zemo Svaneti,mean_income,274.6068001779424,Mean,Nominal values
+2005,Samegrelo-Zemo Svaneti,median_income,215.7802378440907,Median,Nominal values
+2005,Samegrelo-Zemo Svaneti,income_mean_infl,392.49999608549655,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Samegrelo-Zemo Svaneti,income_median_infl,308.4182272771557,Median,Adjusted to inflation (base: 2010 prices)
+2005,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,350.75549956556944,Mean,Nominal values
+2005,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,283.16984957899876,Median,Nominal values
+2005,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,501.3405790287883,Mean,Adjusted to inflation (base: 2010 prices)
+2005,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,404.7393028113921,Median,Adjusted to inflation (base: 2010 prices)
+2005,Mtskheta-Mtianeti,mean_income,270.6348248191967,Mean,Nominal values
+2005,Mtskheta-Mtianeti,median_income,197.06728572605445,Median,Nominal values
+2005,Mtskheta-Mtianeti,income_mean_infl,386.82278666552173,Mean,Adjusted to inflation (base: 2010 prices)
+2005,Mtskheta-Mtianeti,income_median_infl,281.6714983967422,Median,Adjusted to inflation (base: 2010 prices)
+2006,Kakheti,mean_income,291.7366036628966,Mean,Nominal values
+2006,Kakheti,median_income,213.246079063401,Median,Nominal values
+2006,Kakheti,income_mean_infl,381.98993970094944,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Kakheti,income_median_infl,279.21712894490776,Median,Adjusted to inflation (base: 2010 prices)
+2006,Tbilisi,mean_income,372.2836792882143,Mean,Nominal values
+2006,Tbilisi,median_income,259.7231900361541,Median,Nominal values
+2006,Tbilisi,income_mean_infl,487.4555280943611,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Tbilisi,income_median_infl,340.0726698508097,Median,Adjusted to inflation (base: 2010 prices)
+2006,Shida Kartli,mean_income,362.9286338814622,Mean,Nominal values
+2006,Shida Kartli,median_income,270.2015756683252,Median,Nominal values
+2006,Shida Kartli,income_mean_infl,475.2063513165505,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Shida Kartli,income_median_infl,353.7927099333404,Median,Adjusted to inflation (base: 2010 prices)
+2006,Kvemo Kartli,mean_income,303.8020808269188,Mean,Nominal values
+2006,Kvemo Kartli,median_income,218.1780199892017,Median,Nominal values
+2006,Kvemo Kartli,income_mean_infl,397.78806320167286,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Kvemo Kartli,income_median_infl,285.6748438603531,Median,Adjusted to inflation (base: 2010 prices)
+2006,Samtskhe-Javakheti,mean_income,297.1677966830177,Mean,Nominal values
+2006,Samtskhe-Javakheti,median_income,229.6457059698853,Median,Nominal values
+2006,Samtskhe-Javakheti,income_mean_infl,389.1013582484059,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Samtskhe-Javakheti,income_median_infl,300.69024001315296,Median,Adjusted to inflation (base: 2010 prices)
+2006,Adjara A.R.,mean_income,261.22997129062105,Mean,Nominal values
+2006,Adjara A.R.,median_income,187.30618810029904,Median,Nominal values
+2006,Adjara A.R.,income_mean_infl,342.045597736134,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Adjara A.R.,income_median_infl,245.25232212795387,Median,Adjusted to inflation (base: 2010 prices)
+2006,Guria,mean_income,302.4961138098963,Mean,Nominal values
+2006,Guria,median_income,251.19083082495678,Median,Nominal values
+2006,Guria,income_mean_infl,396.07807461669466,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Guria,income_median_infl,328.9006902648739,Median,Adjusted to inflation (base: 2010 prices)
+2006,Samegrelo-Zemo Svaneti,mean_income,342.6869904671165,Mean,Nominal values
+2006,Samegrelo-Zemo Svaneti,median_income,266.69864832044084,Median,Nominal values
+2006,Samegrelo-Zemo Svaneti,income_mean_infl,448.7026351211412,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Samegrelo-Zemo Svaneti,income_median_infl,349.20609656499767,Median,Adjusted to inflation (base: 2010 prices)
+2006,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,375.75411196116517,Mean,Nominal values
+2006,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,299.64356908086023,Median,Nominal values
+2006,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,491.9995940457442,Mean,Adjusted to inflation (base: 2010 prices)
+2006,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,392.3430500247931,Median,Adjusted to inflation (base: 2010 prices)
+2006,Mtskheta-Mtianeti,mean_income,325.87844322101455,Mean,Nominal values
+2006,Mtskheta-Mtianeti,median_income,239.14319905137742,Median,Nominal values
+2006,Mtskheta-Mtianeti,income_mean_infl,426.6940977337032,Mean,Adjusted to inflation (base: 2010 prices)
+2006,Mtskheta-Mtianeti,income_median_infl,313.1259329085891,Median,Adjusted to inflation (base: 2010 prices)
+2007,Kakheti,mean_income,304.492034497413,Mean,Nominal values
+2007,Kakheti,median_income,212.82994149455658,Median,Nominal values
+2007,Kakheti,income_mean_infl,364.9520245298279,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Kakheti,income_median_infl,255.08949078818407,Median,Adjusted to inflation (base: 2010 prices)
+2007,Tbilisi,mean_income,443.1033333080475,Mean,Nominal values
+2007,Tbilisi,median_income,332.4317969932479,Median,Nominal values
+2007,Tbilisi,income_mean_infl,531.0860063502286,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Tbilisi,income_median_infl,398.43951100732437,Median,Adjusted to inflation (base: 2010 prices)
+2007,Shida Kartli,mean_income,318.8399609904727,Mean,Nominal values
+2007,Shida Kartli,median_income,210.60699312582713,Median,Nominal values
+2007,Shida Kartli,income_mean_infl,382.14887774173616,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Shida Kartli,income_median_infl,252.4251534141961,Median,Adjusted to inflation (base: 2010 prices)
+2007,Kvemo Kartli,mean_income,322.16041834228713,Mean,Nominal values
+2007,Kvemo Kartli,median_income,251.78962617193648,Median,Nominal values
+2007,Kvemo Kartli,income_mean_infl,386.12864566870275,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Kvemo Kartli,income_median_infl,301.7850170653232,Median,Adjusted to inflation (base: 2010 prices)
+2007,Samtskhe-Javakheti,mean_income,373.6582537078811,Mean,Nominal values
+2007,Samtskhe-Javakheti,median_income,267.8093981437085,Median,Nominal values
+2007,Samtskhe-Javakheti,income_mean_infl,447.851899962033,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Samtskhe-Javakheti,income_median_infl,320.9856776778558,Median,Adjusted to inflation (base: 2010 prices)
+2007,Adjara A.R.,mean_income,263.2391522393613,Mean,Nominal values
+2007,Adjara A.R.,median_income,192.24485284590017,Median,Nominal values
+2007,Adjara A.R.,income_mean_infl,315.50796297131615,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Adjara A.R.,income_median_infl,230.41702344481595,Median,Adjusted to inflation (base: 2010 prices)
+2007,Guria,mean_income,305.723366217261,Mean,Nominal values
+2007,Guria,median_income,263.94982237735036,Median,Nominal values
+2007,Guria,income_mean_infl,366.4278496848868,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Guria,income_median_infl,316.3597438924824,Median,Adjusted to inflation (base: 2010 prices)
+2007,Samegrelo-Zemo Svaneti,mean_income,387.1331734423117,Mean,Nominal values
+2007,Samegrelo-Zemo Svaneti,median_income,305.98503727353307,Median,Nominal values
+2007,Samegrelo-Zemo Svaneti,income_mean_infl,464.0024020451972,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Samegrelo-Zemo Svaneti,income_median_infl,366.74147819048943,Median,Adjusted to inflation (base: 2010 prices)
+2007,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,394.3434650701409,Mean,Nominal values
+2007,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,301.4020042198743,Median,Nominal values
+2007,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,472.64437040200517,Mean,Adjusted to inflation (base: 2010 prices)
+2007,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,361.24843731610133,Median,Adjusted to inflation (base: 2010 prices)
+2007,Mtskheta-Mtianeti,mean_income,278.2396671074937,Mean,Nominal values
+2007,Mtskheta-Mtianeti,median_income,193.85023700850087,Median,Nominal values
+2007,Mtskheta-Mtianeti,income_mean_infl,333.4869826167749,Mean,Adjusted to inflation (base: 2010 prices)
+2007,Mtskheta-Mtianeti,income_median_infl,232.34117295912526,Median,Adjusted to inflation (base: 2010 prices)
+2008,Kakheti,mean_income,368.81901554437746,Mean,Nominal values
+2008,Kakheti,median_income,265.22019382974673,Median,Nominal values
+2008,Kakheti,income_mean_infl,401.8671281386219,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Kakheti,income_median_infl,288.98531021078696,Median,Adjusted to inflation (base: 2010 prices)
+2008,Tbilisi,mean_income,580.8882403168453,Mean,Nominal values
+2008,Tbilisi,median_income,425.90525536220684,Median,Nominal values
+2008,Tbilisi,income_mean_infl,632.9388645026088,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Tbilisi,income_median_infl,464.06859358628236,Median,Adjusted to inflation (base: 2010 prices)
+2008,Shida Kartli,mean_income,385.2870595363008,Mean,Nominal values
+2008,Shida Kartli,median_income,276.91787098480415,Median,Nominal values
+2008,Shida Kartli,income_mean_infl,419.810794994645,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Shida Kartli,income_median_infl,301.7311604139201,Median,Adjusted to inflation (base: 2010 prices)
+2008,Kvemo Kartli,mean_income,388.2401840787185,Mean,Nominal values
+2008,Kvemo Kartli,median_income,287.62314174686435,Median,Nominal values
+2008,Kvemo Kartli,income_mean_infl,423.028534939928,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Kvemo Kartli,income_median_infl,313.39567942128633,Median,Adjusted to inflation (base: 2010 prices)
+2008,Samtskhe-Javakheti,mean_income,436.40915365735367,Mean,Nominal values
+2008,Samtskhe-Javakheti,median_income,337.06417233111694,Median,Nominal values
+2008,Samtskhe-Javakheti,income_mean_infl,475.5136961005884,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Samtskhe-Javakheti,income_median_infl,367.2668849061258,Median,Adjusted to inflation (base: 2010 prices)
+2008,Adjara A.R.,mean_income,388.1189256604991,Mean,Nominal values
+2008,Adjara A.R.,median_income,276.6,Median,Nominal values
+2008,Adjara A.R.,income_mean_infl,422.8964111332947,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Adjara A.R.,income_median_infl,301.3848065265174,Median,Adjusted to inflation (base: 2010 prices)
+2008,Guria,mean_income,395.7369893715376,Mean,Nominal values
+2008,Guria,median_income,332.30011561594154,Median,Nominal values
+2008,Guria,income_mean_infl,431.1970931927959,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Guria,income_median_infl,362.07594379482975,Median,Adjusted to inflation (base: 2010 prices)
+2008,Samegrelo-Zemo Svaneti,mean_income,451.94096844741864,Mean,Nominal values
+2008,Samegrelo-Zemo Svaneti,median_income,367.49289500661854,Median,Nominal values
+2008,Samegrelo-Zemo Svaneti,income_mean_infl,492.43724272209755,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Samegrelo-Zemo Svaneti,income_median_infl,400.42218026550796,Median,Adjusted to inflation (base: 2010 prices)
+2008,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,481.6177582984662,Mean,Nominal values
+2008,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,382.4260332332329,Median,Nominal values
+2008,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,524.7732281435946,Mean,Adjusted to inflation (base: 2010 prices)
+2008,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,416.6934057726009,Median,Adjusted to inflation (base: 2010 prices)
+2008,Mtskheta-Mtianeti,mean_income,323.1874372645786,Mean,Nominal values
+2008,Mtskheta-Mtianeti,median_income,232.95777885771054,Median,Nominal values
+2008,Mtskheta-Mtianeti,income_mean_infl,352.1467218068908,Mean,Adjusted to inflation (base: 2010 prices)
+2008,Mtskheta-Mtianeti,income_median_infl,253.83201413549645,Median,Adjusted to inflation (base: 2010 prices)
+2009,Kakheti,mean_income,387.17417624712203,Mean,Nominal values
+2009,Kakheti,median_income,267.19384247515706,Median,Nominal values
+2009,Kakheti,income_mean_infl,414.7029531227361,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Kakheti,income_median_infl,286.19180288494886,Median,Adjusted to inflation (base: 2010 prices)
+2009,Tbilisi,mean_income,629.6642699753587,Mean,Nominal values
+2009,Tbilisi,median_income,440.9950900188492,Median,Nominal values
+2009,Tbilisi,income_mean_infl,674.4345265113585,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Tbilisi,income_median_infl,472.35063018953866,Median,Adjusted to inflation (base: 2010 prices)
+2009,Shida Kartli,mean_income,441.96153174793466,Mean,Nominal values
+2009,Shida Kartli,median_income,305.75690658763295,Median,Nominal values
+2009,Shida Kartli,income_mean_infl,473.3857876552498,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Shida Kartli,income_median_infl,327.49676987401216,Median,Adjusted to inflation (base: 2010 prices)
+2009,Kvemo Kartli,mean_income,414.0571604564646,Mean,Nominal values
+2009,Kvemo Kartli,median_income,303.81384607292904,Median,Nominal values
+2009,Kvemo Kartli,income_mean_infl,443.49736562314655,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Kvemo Kartli,income_median_infl,325.41555427912294,Median,Adjusted to inflation (base: 2010 prices)
+2009,Samtskhe-Javakheti,mean_income,435.24300619452276,Mean,Nominal values
+2009,Samtskhe-Javakheti,median_income,338.0178258288827,Median,Nominal values
+2009,Samtskhe-Javakheti,income_mean_infl,466.1895629105186,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Samtskhe-Javakheti,income_median_infl,362.05149821225007,Median,Adjusted to inflation (base: 2010 prices)
+2009,Adjara A.R.,mean_income,480.5148345204404,Mean,Nominal values
+2009,Adjara A.R.,median_income,332.10082839819705,Median,Nominal values
+2009,Adjara A.R.,income_mean_infl,514.6802992556007,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Adjara A.R.,income_median_infl,355.7137916743048,Median,Adjusted to inflation (base: 2010 prices)
+2009,Guria,mean_income,409.39745890130666,Mean,Nominal values
+2009,Guria,median_income,311.1065376387681,Median,Nominal values
+2009,Guria,income_mean_infl,438.50635094772247,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Guria,income_median_infl,333.22676926737773,Median,Adjusted to inflation (base: 2010 prices)
+2009,Samegrelo-Zemo Svaneti,mean_income,485.76266724511606,Mean,Nominal values
+2009,Samegrelo-Zemo Svaneti,median_income,387.91188537986613,Median,Nominal values
+2009,Samegrelo-Zemo Svaneti,income_mean_infl,520.3012622793023,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Samegrelo-Zemo Svaneti,income_median_infl,415.4931146951322,Median,Adjusted to inflation (base: 2010 prices)
+2009,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,506.1792961068974,Mean,Nominal values
+2009,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,385.01488265723685,Median,Nominal values
+2009,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,542.1695499937894,Mean,Adjusted to inflation (base: 2010 prices)
+2009,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,412.3901298940174,Median,Adjusted to inflation (base: 2010 prices)
+2009,Mtskheta-Mtianeti,mean_income,371.65910231571814,Mean,Nominal values
+2009,Mtskheta-Mtianeti,median_income,248.64350046215037,Median,Nominal values
+2009,Mtskheta-Mtianeti,income_mean_infl,398.0847296667274,Mean,Adjusted to inflation (base: 2010 prices)
+2009,Mtskheta-Mtianeti,income_median_infl,266.3224983543685,Median,Adjusted to inflation (base: 2010 prices)
+2010,Kakheti,mean_income,430.8018464979251,Mean,Nominal values
+2010,Kakheti,median_income,297.68093838072315,Median,Nominal values
+2010,Kakheti,income_mean_infl,430.8018464979251,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Kakheti,income_median_infl,297.68093838072315,Median,Adjusted to inflation (base: 2010 prices)
+2010,Tbilisi,mean_income,696.6352037596658,Mean,Nominal values
+2010,Tbilisi,median_income,490.3945291082845,Median,Nominal values
+2010,Tbilisi,income_mean_infl,696.6352037596658,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Tbilisi,income_median_infl,490.3945291082845,Median,Adjusted to inflation (base: 2010 prices)
+2010,Shida Kartli,mean_income,495.5333758445401,Mean,Nominal values
+2010,Shida Kartli,median_income,344.9458152034799,Median,Nominal values
+2010,Shida Kartli,income_mean_infl,495.5333758445401,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Shida Kartli,income_median_infl,344.9458152034799,Median,Adjusted to inflation (base: 2010 prices)
+2010,Kvemo Kartli,mean_income,433.2718361166988,Mean,Nominal values
+2010,Kvemo Kartli,median_income,320.46895784552385,Median,Nominal values
+2010,Kvemo Kartli,income_mean_infl,433.2718361166988,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Kvemo Kartli,income_median_infl,320.46895784552385,Median,Adjusted to inflation (base: 2010 prices)
+2010,Samtskhe-Javakheti,mean_income,578.4796879334393,Mean,Nominal values
+2010,Samtskhe-Javakheti,median_income,427.2361554868805,Median,Nominal values
+2010,Samtskhe-Javakheti,income_mean_infl,578.4796879334393,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Samtskhe-Javakheti,income_median_infl,427.2361554868805,Median,Adjusted to inflation (base: 2010 prices)
+2010,Adjara A.R.,mean_income,551.1738894188306,Mean,Nominal values
+2010,Adjara A.R.,median_income,377.3049574631864,Median,Nominal values
+2010,Adjara A.R.,income_mean_infl,551.1738894188306,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Adjara A.R.,income_median_infl,377.3049574631864,Median,Adjusted to inflation (base: 2010 prices)
+2010,Guria,mean_income,470.26758950414694,Mean,Nominal values
+2010,Guria,median_income,354.792629841243,Median,Nominal values
+2010,Guria,income_mean_infl,470.26758950414694,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Guria,income_median_infl,354.792629841243,Median,Adjusted to inflation (base: 2010 prices)
+2010,Samegrelo-Zemo Svaneti,mean_income,573.837727620244,Mean,Nominal values
+2010,Samegrelo-Zemo Svaneti,median_income,440.1934330957723,Median,Nominal values
+2010,Samegrelo-Zemo Svaneti,income_mean_infl,573.837727620244,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Samegrelo-Zemo Svaneti,income_median_infl,440.1934330957723,Median,Adjusted to inflation (base: 2010 prices)
+2010,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,538.6706059477057,Mean,Nominal values
+2010,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,406.87759706627315,Median,Nominal values
+2010,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,538.6706059477057,Mean,Adjusted to inflation (base: 2010 prices)
+2010,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,406.87759706627315,Median,Adjusted to inflation (base: 2010 prices)
+2010,Mtskheta-Mtianeti,mean_income,483.6021279660711,Mean,Nominal values
+2010,Mtskheta-Mtianeti,median_income,299.41761222098944,Median,Nominal values
+2010,Mtskheta-Mtianeti,income_mean_infl,483.6021279660711,Mean,Adjusted to inflation (base: 2010 prices)
+2010,Mtskheta-Mtianeti,income_median_infl,299.41761222098944,Median,Adjusted to inflation (base: 2010 prices)
+2011,Kakheti,mean_income,436.8791550690167,Mean,Nominal values
+2011,Kakheti,median_income,302.76299202898366,Median,Nominal values
+2011,Kakheti,income_mean_infl,402.4943325673436,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Kakheti,income_median_infl,278.93385845691506,Median,Adjusted to inflation (base: 2010 prices)
+2011,Tbilisi,mean_income,694.7383198518562,Mean,Nominal values
+2011,Tbilisi,median_income,470.99798998652875,Median,Nominal values
+2011,Tbilisi,income_mean_infl,640.058545053622,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Tbilisi,income_median_infl,433.92782516767136,Median,Adjusted to inflation (base: 2010 prices)
+2011,Shida Kartli,mean_income,579.7637589795977,Mean,Nominal values
+2011,Shida Kartli,median_income,409.82044378451263,Median,Nominal values
+2011,Shida Kartli,income_mean_infl,534.133122420005,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Shida Kartli,income_median_infl,377.56529255199104,Median,Adjusted to inflation (base: 2010 prices)
+2011,Kvemo Kartli,mean_income,477.27924200559045,Mean,Nominal values
+2011,Kvemo Kartli,median_income,342.73984774086205,Median,Nominal values
+2011,Kvemo Kartli,income_mean_infl,439.71470767228556,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Kvemo Kartli,income_median_infl,315.76431299153705,Median,Adjusted to inflation (base: 2010 prices)
+2011,Samtskhe-Javakheti,mean_income,676.4043362139998,Mean,Nominal values
+2011,Samtskhe-Javakheti,median_income,504.4527170765561,Median,Nominal values
+2011,Samtskhe-Javakheti,income_mean_infl,623.1675480307637,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Samtskhe-Javakheti,income_median_infl,464.7494789249809,Median,Adjusted to inflation (base: 2010 prices)
+2011,Adjara A.R.,mean_income,648.2760197944089,Mean,Nominal values
+2011,Adjara A.R.,median_income,463.35372319708114,Median,Nominal values
+2011,Adjara A.R.,income_mean_infl,597.25308676113,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Adjara A.R.,income_median_infl,426.8852047457852,Median,Adjusted to inflation (base: 2010 prices)
+2011,Guria,mean_income,568.7715640603999,Mean,Nominal values
+2011,Guria,median_income,393.1220236784573,Median,Nominal values
+2011,Guria,income_mean_infl,524.0060744569275,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Guria,income_median_infl,362.18113110246145,Median,Adjusted to inflation (base: 2010 prices)
+2011,Samegrelo-Zemo Svaneti,mean_income,637.1754573322231,Mean,Nominal values
+2011,Samegrelo-Zemo Svaneti,median_income,494.7561523806636,Median,Nominal values
+2011,Samegrelo-Zemo Svaneti,income_mean_infl,587.026200384201,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Samegrelo-Zemo Svaneti,income_median_infl,455.8160878712174,Median,Adjusted to inflation (base: 2010 prices)
+2011,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,614.3930956604971,Mean,Nominal values
+2011,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,443.3,Median,Nominal values
+2011,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,566.0369374519365,Mean,Adjusted to inflation (base: 2010 prices)
+2011,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,408.4098212443125,Median,Adjusted to inflation (base: 2010 prices)
+2011,Mtskheta-Mtianeti,mean_income,462.5162525364679,Mean,Nominal values
+2011,Mtskheta-Mtianeti,median_income,320.73165356745426,Median,Nominal values
+2011,Mtskheta-Mtianeti,income_mean_infl,426.1136476900703,Mean,Adjusted to inflation (base: 2010 prices)
+2011,Mtskheta-Mtianeti,income_median_infl,295.4882862641028,Median,Adjusted to inflation (base: 2010 prices)
+2012,Kakheti,mean_income,584.1913534008033,Mean,Nominal values
+2012,Kakheti,median_income,403.4729794166846,Median,Nominal values
+2012,Kakheti,income_mean_infl,543.3395119102692,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Kakheti,income_median_infl,375.2585696947805,Median,Adjusted to inflation (base: 2010 prices)
+2012,Tbilisi,mean_income,805.6119097901421,Mean,Nominal values
+2012,Tbilisi,median_income,599.0658520800088,Median,Nominal values
+2012,Tbilisi,income_mean_infl,749.2763788890986,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Tbilisi,income_median_infl,557.1738536978042,Median,Adjusted to inflation (base: 2010 prices)
+2012,Shida Kartli,mean_income,599.6735377142728,Mean,Nominal values
+2012,Shida Kartli,median_income,454.1079221748999,Median,Nominal values
+2012,Shida Kartli,income_mean_infl,557.7390445620542,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Shida Kartli,income_median_infl,422.35266809883143,Median,Adjusted to inflation (base: 2010 prices)
+2012,Kvemo Kartli,mean_income,520.1768206587783,Mean,Nominal values
+2012,Kvemo Kartli,median_income,408.3634550832873,Median,Nominal values
+2012,Kvemo Kartli,income_mean_infl,483.80144313753135,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Kvemo Kartli,income_median_infl,379.80705992188234,Median,Adjusted to inflation (base: 2010 prices)
+2012,Samtskhe-Javakheti,mean_income,678.4611841752807,Mean,Nominal values
+2012,Samtskhe-Javakheti,median_income,526.1885488221496,Median,Nominal values
+2012,Samtskhe-Javakheti,income_mean_infl,631.017159897857,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Samtskhe-Javakheti,income_median_infl,489.3927779407741,Median,Adjusted to inflation (base: 2010 prices)
+2012,Adjara A.R.,mean_income,704.3795989657834,Mean,Nominal values
+2012,Adjara A.R.,median_income,512.6497670509551,Median,Nominal values
+2012,Adjara A.R.,income_mean_infl,655.1231292172932,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Adjara A.R.,income_median_infl,476.80074788658476,Median,Adjusted to inflation (base: 2010 prices)
+2012,Guria,mean_income,528.0940194999167,Mean,Nominal values
+2012,Guria,median_income,432.70946181860415,Median,Nominal values
+2012,Guria,income_mean_infl,491.1650012063023,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Guria,income_median_infl,402.4505779053736,Median,Adjusted to inflation (base: 2010 prices)
+2012,Samegrelo-Zemo Svaneti,mean_income,676.3199383369483,Mean,Nominal values
+2012,Samegrelo-Zemo Svaneti,median_income,523.5629616136317,Median,Nominal values
+2012,Samegrelo-Zemo Svaneti,income_mean_infl,629.0256489624304,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Samegrelo-Zemo Svaneti,income_median_infl,486.9507950801082,Median,Adjusted to inflation (base: 2010 prices)
+2012,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,650.5479195309213,Mean,Nominal values
+2012,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,497.2771902813054,Median,Nominal values
+2012,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,605.055838321632,Mean,Adjusted to inflation (base: 2010 prices)
+2012,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,462.5031580468835,Median,Adjusted to inflation (base: 2010 prices)
+2012,Mtskheta-Mtianeti,mean_income,519.8556556125377,Mean,Nominal values
+2012,Mtskheta-Mtianeti,median_income,350.2105027489485,Median,Nominal values
+2012,Mtskheta-Mtianeti,income_mean_infl,483.50273680021365,Mean,Adjusted to inflation (base: 2010 prices)
+2012,Mtskheta-Mtianeti,income_median_infl,325.7206778596631,Median,Adjusted to inflation (base: 2010 prices)
+2013,Kakheti,mean_income,707.4433319108911,Mean,Nominal values
+2013,Kakheti,median_income,444.37776293147033,Median,Nominal values
+2013,Kakheti,income_mean_infl,661.359164003933,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Kakheti,income_median_infl,415.43017304361797,Median,Adjusted to inflation (base: 2010 prices)
+2013,Tbilisi,mean_income,959.4533129917635,Mean,Nominal values
+2013,Tbilisi,median_income,763.3333333333334,Median,Nominal values
+2013,Tbilisi,income_mean_infl,896.9527485220018,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Tbilisi,income_median_infl,713.6083872980199,Median,Adjusted to inflation (base: 2010 prices)
+2013,Shida Kartli,mean_income,695.5610836691791,Mean,Nominal values
+2013,Shida Kartli,median_income,525.3914674945129,Median,Nominal values
+2013,Shida Kartli,income_mean_infl,650.2509474031782,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Shida Kartli,income_median_infl,491.16649495925685,Median,Adjusted to inflation (base: 2010 prices)
+2013,Kvemo Kartli,mean_income,585.3231074504338,Mean,Nominal values
+2013,Kvemo Kartli,median_income,470.88136583309665,Median,Nominal values
+2013,Kvemo Kartli,income_mean_infl,547.194076972886,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Kvemo Kartli,income_median_infl,440.20728220198043,Median,Adjusted to inflation (base: 2010 prices)
+2013,Samtskhe-Javakheti,mean_income,705.5388660764911,Mean,Nominal values
+2013,Samtskhe-Javakheti,median_income,557.6678600372729,Median,Nominal values
+2013,Samtskhe-Javakheti,income_mean_infl,659.5787585985831,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Samtskhe-Javakheti,income_median_infl,521.3403435578203,Median,Adjusted to inflation (base: 2010 prices)
+2013,Adjara A.R.,mean_income,794.0306737645781,Mean,Nominal values
+2013,Adjara A.R.,median_income,606.0424304040076,Median,Nominal values
+2013,Adjara A.R.,income_mean_infl,742.306046161966,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Adjara A.R.,income_median_infl,566.5637048839865,Median,Adjusted to inflation (base: 2010 prices)
+2013,Guria,mean_income,641.2104345241628,Mean,Nominal values
+2013,Guria,median_income,513.7192562120396,Median,Nominal values
+2013,Guria,income_mean_infl,599.4408001302844,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Guria,income_median_infl,480.25463312150026,Median,Adjusted to inflation (base: 2010 prices)
+2013,Samegrelo-Zemo Svaneti,mean_income,721.7018626388834,Mean,Nominal values
+2013,Samegrelo-Zemo Svaneti,median_income,576.6311248480846,Median,Nominal values
+2013,Samegrelo-Zemo Svaneti,income_mean_infl,674.6888676520227,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Samegrelo-Zemo Svaneti,income_median_infl,539.0683062035173,Median,Adjusted to inflation (base: 2010 prices)
+2013,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,715.4282074312724,Mean,Nominal values
+2013,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,573.2738026618447,Median,Nominal values
+2013,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,668.8238899552973,Mean,Adjusted to inflation (base: 2010 prices)
+2013,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,535.9296861978895,Median,Adjusted to inflation (base: 2010 prices)
+2013,Mtskheta-Mtianeti,mean_income,532.2360755477854,Mean,Nominal values
+2013,Mtskheta-Mtianeti,median_income,371.86985990835035,Median,Nominal values
+2013,Mtskheta-Mtianeti,income_mean_infl,497.5652325766143,Mean,Adjusted to inflation (base: 2010 prices)
+2013,Mtskheta-Mtianeti,income_median_infl,347.64556901389324,Median,Adjusted to inflation (base: 2010 prices)
+2014,Kakheti,mean_income,716.9628898172259,Mean,Nominal values
+2014,Kakheti,median_income,461.9322500287657,Median,Nominal values
+2014,Kakheti,income_mean_infl,650.3020522012104,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Kakheti,income_median_infl,418.9833175998945,Median,Adjusted to inflation (base: 2010 prices)
+2014,Tbilisi,mean_income,1040.4364549766794,Mean,Nominal values
+2014,Tbilisi,median_income,828.4962700766009,Median,Nominal values
+2014,Tbilisi,income_mean_infl,943.7001153975636,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Tbilisi,income_median_infl,751.4654277423065,Median,Adjusted to inflation (base: 2010 prices)
+2014,Shida Kartli,mean_income,748.1196308538996,Mean,Nominal values
+2014,Shida Kartli,median_income,575.2047450334989,Median,Nominal values
+2014,Shida Kartli,income_mean_infl,678.5619425300051,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Shida Kartli,income_median_infl,521.7241107507194,Median,Adjusted to inflation (base: 2010 prices)
+2014,Kvemo Kartli,mean_income,661.1729222247693,Mean,Nominal values
+2014,Kvemo Kartli,median_income,532.7190394754284,Median,Nominal values
+2014,Kvemo Kartli,income_mean_infl,599.6992512293742,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Kvemo Kartli,income_median_infl,483.18858554289056,Median,Adjusted to inflation (base: 2010 prices)
+2014,Samtskhe-Javakheti,mean_income,816.0647619395849,Mean,Nominal values
+2014,Samtskhe-Javakheti,median_income,673.106456196132,Median,Nominal values
+2014,Samtskhe-Javakheti,income_mean_infl,740.1897601055638,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Samtskhe-Javakheti,income_median_infl,610.5232446909721,Median,Adjusted to inflation (base: 2010 prices)
+2014,Adjara A.R.,mean_income,880.7749371487923,Mean,Nominal values
+2014,Adjara A.R.,median_income,682.7608170566376,Median,Nominal values
+2014,Adjara A.R.,income_mean_infl,798.8833973000568,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Adjara A.R.,income_median_infl,619.2799750175284,Median,Adjusted to inflation (base: 2010 prices)
+2014,Guria,mean_income,792.9094823560791,Mean,Nominal values
+2014,Guria,median_income,573.3785447841415,Median,Nominal values
+2014,Guria,income_mean_infl,719.187381814708,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Guria,income_median_infl,520.0677045590543,Median,Adjusted to inflation (base: 2010 prices)
+2014,Samegrelo-Zemo Svaneti,mean_income,871.8961381560297,Mean,Nominal values
+2014,Samegrelo-Zemo Svaneti,median_income,733.4118968709133,Median,Nominal values
+2014,Samegrelo-Zemo Svaneti,income_mean_infl,790.830119664519,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Samegrelo-Zemo Svaneti,income_median_infl,665.2216849961686,Median,Adjusted to inflation (base: 2010 prices)
+2014,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,776.5812640546866,Mean,Nominal values
+2014,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,648.4127656997247,Median,Nominal values
+2014,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,704.3773072334534,Mean,Adjusted to inflation (base: 2010 prices)
+2014,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,588.125491844477,Median,Adjusted to inflation (base: 2010 prices)
+2014,Mtskheta-Mtianeti,mean_income,594.4842218498993,Mean,Nominal values
+2014,Mtskheta-Mtianeti,median_income,403.49769156074865,Median,Nominal values
+2014,Mtskheta-Mtianeti,income_mean_infl,539.2110455937028,Mean,Adjusted to inflation (base: 2010 prices)
+2014,Mtskheta-Mtianeti,income_median_infl,365.98181106318884,Median,Adjusted to inflation (base: 2010 prices)
+2015,Kakheti,mean_income,791.3166415697851,Mean,Nominal values
+2015,Kakheti,median_income,463.48594442596965,Median,Nominal values
+2015,Kakheti,income_mean_infl,690.1134080858652,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Kakheti,income_median_infl,404.2097030503231,Median,Adjusted to inflation (base: 2010 prices)
+2015,Tbilisi,mean_income,1090.5119023599764,Mean,Nominal values
+2015,Tbilisi,median_income,931.0504253670899,Median,Nominal values
+2015,Tbilisi,income_mean_infl,951.0439259850633,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Tbilisi,income_median_infl,811.9763295704847,Median,Adjusted to inflation (base: 2010 prices)
+2015,Shida Kartli,mean_income,716.0553523892248,Mean,Nominal values
+2015,Shida Kartli,median_income,562.5427742300219,Median,Nominal values
+2015,Shida Kartli,income_mean_infl,624.4774514474481,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Shida Kartli,income_median_infl,490.5979360522793,Median,Adjusted to inflation (base: 2010 prices)
+2015,Kvemo Kartli,mean_income,678.5330388008988,Mean,Nominal values
+2015,Kvemo Kartli,median_income,523.4485560837168,Median,Nominal values
+2015,Kvemo Kartli,income_mean_infl,591.7539494390265,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Kvemo Kartli,income_median_infl,456.50356383248356,Median,Adjusted to inflation (base: 2010 prices)
+2015,Samtskhe-Javakheti,mean_income,804.2260016903102,Mean,Nominal values
+2015,Samtskhe-Javakheti,median_income,609.60529078548,Median,Nominal values
+2015,Samtskhe-Javakheti,income_mean_infl,701.3717616209433,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Samtskhe-Javakheti,income_median_infl,531.641523393947,Median,Adjusted to inflation (base: 2010 prices)
+2015,Adjara A.R.,mean_income,851.7463254529309,Mean,Nominal values
+2015,Adjara A.R.,median_income,725.9403484498356,Median,Nominal values
+2015,Adjara A.R.,income_mean_infl,742.8146061946522,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Adjara A.R.,income_median_infl,633.0982335237237,Median,Adjusted to inflation (base: 2010 prices)
+2015,Guria,mean_income,776.7484227272898,Mean,Nominal values
+2015,Guria,median_income,654.3430658802921,Median,Nominal values
+2015,Guria,income_mean_infl,677.4083509355556,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Guria,income_median_infl,570.657685596239,Median,Adjusted to inflation (base: 2010 prices)
+2015,Samegrelo-Zemo Svaneti,mean_income,933.2024865323041,Mean,Nominal values
+2015,Samegrelo-Zemo Svaneti,median_income,770.5337458684835,Median,Nominal values
+2015,Samegrelo-Zemo Svaneti,income_mean_infl,813.8531588789002,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Samegrelo-Zemo Svaneti,income_median_infl,671.9884828298184,Median,Adjusted to inflation (base: 2010 prices)
+2015,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,774.4489298255376,Mean,Nominal values
+2015,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,631.7571874865382,Median,Nominal values
+2015,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,675.4029452610971,Mean,Adjusted to inflation (base: 2010 prices)
+2015,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,550.9603650874654,Median,Adjusted to inflation (base: 2010 prices)
+2015,Mtskheta-Mtianeti,mean_income,672.5735314808741,Mean,Nominal values
+2015,Mtskheta-Mtianeti,median_income,407.36245252239803,Median,Nominal values
+2015,Mtskheta-Mtianeti,income_mean_infl,586.5566166760301,Mean,Adjusted to inflation (base: 2010 prices)
+2015,Mtskheta-Mtianeti,income_median_infl,355.26396851551164,Median,Adjusted to inflation (base: 2010 prices)
+2016,Kakheti,mean_income,791.8641311036487,Mean,Nominal values
+2016,Kakheti,median_income,501.11769163355365,Median,Nominal values
+2016,Kakheti,income_mean_infl,676.1554517302548,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Kakheti,income_median_infl,427.89343000580664,Median,Adjusted to inflation (base: 2010 prices)
+2016,Tbilisi,mean_income,1149.5227822096465,Mean,Nominal values
+2016,Tbilisi,median_income,931.0702153994141,Median,Nominal values
+2016,Tbilisi,income_mean_infl,981.5523466076104,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Tbilisi,income_median_infl,795.0204806076431,Median,Adjusted to inflation (base: 2010 prices)
+2016,Shida Kartli,mean_income,749.9940949495616,Mean,Nominal values
+2016,Shida Kartli,median_income,581.3097575336301,Median,Nominal values
+2016,Shida Kartli,income_mean_infl,640.4035441772869,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Shida Kartli,income_median_infl,496.3676800874172,Median,Adjusted to inflation (base: 2010 prices)
+2016,Kvemo Kartli,mean_income,714.9931735968429,Mean,Nominal values
+2016,Kvemo Kartli,median_income,566.4878505105415,Median,Nominal values
+2016,Kvemo Kartli,income_mean_infl,610.5170234237349,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Kvemo Kartli,income_median_infl,483.7115780554533,Median,Adjusted to inflation (base: 2010 prices)
+2016,Samtskhe-Javakheti,mean_income,745.7902773560114,Mean,Nominal values
+2016,Samtskhe-Javakheti,median_income,647.0565830302172,Median,Nominal values
+2016,Samtskhe-Javakheti,income_mean_infl,636.8139963340263,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Samtskhe-Javakheti,income_median_infl,552.5074555202513,Median,Adjusted to inflation (base: 2010 prices)
+2016,Adjara A.R.,mean_income,1001.9268218014042,Mean,Nominal values
+2016,Adjara A.R.,median_income,789.3792286950179,Median,Nominal values
+2016,Adjara A.R.,income_mean_infl,855.5233861288674,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Adjara A.R.,income_median_infl,674.0336479452145,Median,Adjusted to inflation (base: 2010 prices)
+2016,Guria,mean_income,758.4325894421103,Mean,Nominal values
+2016,Guria,median_income,604.5778138163007,Median,Nominal values
+2016,Guria,income_mean_infl,647.6089899493794,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Guria,income_median_infl,516.2357641295202,Median,Adjusted to inflation (base: 2010 prices)
+2016,Samegrelo-Zemo Svaneti,mean_income,993.7072512087576,Mean,Nominal values
+2016,Samegrelo-Zemo Svaneti,median_income,810.0954033631219,Median,Nominal values
+2016,Samegrelo-Zemo Svaneti,income_mean_infl,848.504874683787,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Samegrelo-Zemo Svaneti,income_median_infl,691.7227361241578,Median,Adjusted to inflation (base: 2010 prices)
+2016,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,797.0430117881222,Mean,Nominal values
+2016,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,643.913242672046,Median,Nominal values
+2016,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,680.5775846077559,Mean,Adjusted to inflation (base: 2010 prices)
+2016,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,549.823425979907,Median,Adjusted to inflation (base: 2010 prices)
+2016,Mtskheta-Mtianeti,mean_income,687.8627609044964,Mean,Nominal values
+2016,Mtskheta-Mtianeti,median_income,467.18839460754594,Median,Nominal values
+2016,Mtskheta-Mtianeti,income_mean_infl,587.3509577704585,Mean,Adjusted to inflation (base: 2010 prices)
+2016,Mtskheta-Mtianeti,income_median_infl,398.9219458125071,Median,Adjusted to inflation (base: 2010 prices)
+2017,Kakheti,mean_income,768.4122059235999,Mean,Nominal values
+2017,Kakheti,median_income,535.8995282048488,Median,Nominal values
+2017,Kakheti,income_mean_infl,618.7847436687739,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Kakheti,income_median_infl,431.54761160239104,Median,Adjusted to inflation (base: 2010 prices)
+2017,Tbilisi,mean_income,1177.8461766687096,Mean,Nominal values
+2017,Tbilisi,median_income,933.3333333333334,Median,Nominal values
+2017,Tbilisi,income_mean_infl,948.4925394114025,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Tbilisi,income_median_infl,751.5919489202006,Median,Adjusted to inflation (base: 2010 prices)
+2017,Shida Kartli,mean_income,804.150800662693,Mean,Nominal values
+2017,Shida Kartli,median_income,593.7049268633657,Median,Nominal values
+2017,Shida Kartli,income_mean_infl,647.5642151740855,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Shida Kartli,income_median_infl,478.0969747122452,Median,Adjusted to inflation (base: 2010 prices)
+2017,Kvemo Kartli,mean_income,914.1543659839058,Mean,Nominal values
+2017,Kvemo Kartli,median_income,684.0769344118838,Median,Nominal values
+2017,Kvemo Kartli,income_mean_infl,736.1475659397364,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Kvemo Kartli,income_median_infl,550.8714817992685,Median,Adjusted to inflation (base: 2010 prices)
+2017,Samtskhe-Javakheti,mean_income,849.7391939137116,Mean,Nominal values
+2017,Samtskhe-Javakheti,median_income,681.3675446506994,Median,Nominal values
+2017,Samtskhe-Javakheti,income_mean_infl,684.2755037437357,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Samtskhe-Javakheti,income_median_infl,548.689672301776,Median,Adjusted to inflation (base: 2010 prices)
+2017,Adjara A.R.,mean_income,1061.0363186504687,Mean,Nominal values
+2017,Adjara A.R.,median_income,813.5629875447943,Median,Nominal values
+2017,Adjara A.R.,income_mean_infl,854.4282370817365,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Adjara A.R.,income_median_infl,655.143633619428,Median,Adjusted to inflation (base: 2010 prices)
+2017,Guria,mean_income,677.6034468374256,Mean,Nominal values
+2017,Guria,median_income,526.0311472790258,Median,Nominal values
+2017,Guria,income_mean_infl,545.6585305752709,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Guria,income_median_infl,423.60083054589865,Median,Adjusted to inflation (base: 2010 prices)
+2017,Samegrelo-Zemo Svaneti,mean_income,914.2009499846212,Mean,Nominal values
+2017,Samegrelo-Zemo Svaneti,median_income,666.3369525648471,Median,Nominal values
+2017,Samegrelo-Zemo Svaneti,income_mean_infl,736.185078968186,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Samegrelo-Zemo Svaneti,income_median_infl,536.5858808740293,Median,Adjusted to inflation (base: 2010 prices)
+2017,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,828.5090187957627,Mean,Nominal values
+2017,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,657.7305561399216,Median,Nominal values
+2017,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,667.1793301442897,Mean,Adjusted to inflation (base: 2010 prices)
+2017,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,529.6553470216833,Median,Adjusted to inflation (base: 2010 prices)
+2017,Mtskheta-Mtianeti,mean_income,799.0346949471156,Mean,Nominal values
+2017,Mtskheta-Mtianeti,median_income,513.4591274266081,Median,Nominal values
+2017,Mtskheta-Mtianeti,income_mean_infl,643.4443324608862,Mean,Adjusted to inflation (base: 2010 prices)
+2017,Mtskheta-Mtianeti,income_median_infl,413.4768710072464,Median,Adjusted to inflation (base: 2010 prices)
+2018,Kakheti,mean_income,989.9690049397535,Mean,Nominal values
+2018,Kakheti,median_income,642.952227481122,Median,Nominal values
+2018,Kakheti,income_mean_infl,776.8819923956725,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Kakheti,income_median_infl,504.55923873209304,Median,Adjusted to inflation (base: 2010 prices)
+2018,Tbilisi,mean_income,1190.1261849498467,Mean,Nominal values
+2018,Tbilisi,median_income,933.3333333333333,Median,Nominal values
+2018,Tbilisi,income_mean_infl,933.9561109010327,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Tbilisi,income_median_infl,732.4369308041325,Median,Adjusted to inflation (base: 2010 prices)
+2018,Shida Kartli,mean_income,850.4556280365925,Mean,Nominal values
+2018,Shida Kartli,median_income,648.1646603815062,Median,Nominal values
+2018,Shida Kartli,income_mean_infl,667.3983321259531,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Shida Kartli,income_median_infl,508.64971554164293,Median,Adjusted to inflation (base: 2010 prices)
+2018,Kvemo Kartli,mean_income,897.057233919581,Mean,Nominal values
+2018,Kvemo Kartli,median_income,713.6067813329712,Median,Nominal values
+2018,Kvemo Kartli,income_mean_infl,703.9691219653959,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Kvemo Kartli,income_median_infl,560.0056722005756,Median,Adjusted to inflation (base: 2010 prices)
+2018,Samtskhe-Javakheti,mean_income,1001.2596063681325,Mean,Nominal values
+2018,Samtskhe-Javakheti,median_income,791.8477486419642,Median,Nominal values
+2018,Samtskhe-Javakheti,income_mean_infl,785.7423353854596,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Samtskhe-Javakheti,income_median_infl,621.4055728708742,Median,Adjusted to inflation (base: 2010 prices)
+2018,Adjara A.R.,mean_income,1126.9169031592974,Mean,Nominal values
+2018,Adjara A.R.,median_income,939.9995189245417,Median,Nominal values
+2018,Adjara A.R.,income_mean_infl,884.3523833799576,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Adjara A.R.,income_median_infl,737.6682456411991,Median,Adjusted to inflation (base: 2010 prices)
+2018,Guria,mean_income,726.2588411118793,Mean,Nominal values
+2018,Guria,median_income,535.2424013734513,Median,Nominal values
+2018,Guria,income_mean_infl,569.9344248785904,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Guria,income_median_infl,420.0335375337904,Median,Adjusted to inflation (base: 2010 prices)
+2018,Samegrelo-Zemo Svaneti,mean_income,890.1589242286376,Mean,Nominal values
+2018,Samegrelo-Zemo Svaneti,median_income,693.0989448867517,Median,Nominal values
+2018,Samegrelo-Zemo Svaneti,income_mean_infl,698.5556468463554,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Samegrelo-Zemo Svaneti,income_median_infl,543.9120685033233,Median,Adjusted to inflation (base: 2010 prices)
+2018,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,882.2880366618372,Mean,Nominal values
+2018,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,706.0279665629652,Median,Nominal values
+2018,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,692.3789374905001,Mean,Adjusted to inflation (base: 2010 prices)
+2018,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,554.0581680977797,Median,Adjusted to inflation (base: 2010 prices)
+2018,Mtskheta-Mtianeti,mean_income,783.8956456447181,Mean,Nominal values
+2018,Mtskheta-Mtianeti,median_income,602.4185453607042,Median,Nominal values
+2018,Mtskheta-Mtianeti,income_mean_infl,615.165129392937,Mean,Adjusted to inflation (base: 2010 prices)
+2018,Mtskheta-Mtianeti,income_median_infl,472.75027545373325,Median,Adjusted to inflation (base: 2010 prices)
+2019,Kakheti,mean_income,992.4474940787062,Mean,Nominal values
+2019,Kakheti,median_income,688.4676337804345,Median,Nominal values
+2019,Kakheti,income_mean_infl,742.7806093533483,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Kakheti,income_median_infl,515.2720033962158,Median,Adjusted to inflation (base: 2010 prices)
+2019,Tbilisi,mean_income,1171.2299022401348,Mean,Nominal values
+2019,Tbilisi,median_income,930,Median,Nominal values
+2019,Tbilisi,income_mean_infl,876.5872911860031,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Tbilisi,income_median_infl,696.0428343263377,Median,Adjusted to inflation (base: 2010 prices)
+2019,Shida Kartli,mean_income,905.0393100564836,Mean,Nominal values
+2019,Shida Kartli,median_income,675.4834448977277,Median,Nominal values
+2019,Shida Kartli,income_mean_infl,677.3614263962022,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Shida Kartli,income_median_infl,505.55420594315376,Median,Adjusted to inflation (base: 2010 prices)
+2019,Kvemo Kartli,mean_income,995.6713828023902,Mean,Nominal values
+2019,Kvemo Kartli,median_income,815.8235539345042,Median,Nominal values
+2019,Kvemo Kartli,income_mean_infl,745.1934745627954,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Kvemo Kartli,income_median_infl,610.5893965492023,Median,Adjusted to inflation (base: 2010 prices)
+2019,Samtskhe-Javakheti,mean_income,1213.9835980229968,Mean,Nominal values
+2019,Samtskhe-Javakheti,median_income,957.1750753018073,Median,Nominal values
+2019,Samtskhe-Javakheti,income_mean_infl,908.5855746167872,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Samtskhe-Javakheti,income_median_infl,716.3815616769846,Median,Adjusted to inflation (base: 2010 prices)
+2019,Adjara A.R.,mean_income,1265.9188810160213,Mean,Nominal values
+2019,Adjara A.R.,median_income,1016.6666666666666,Median,Nominal values
+2019,Adjara A.R.,income_mean_infl,947.4556623329219,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Adjara A.R.,income_median_infl,760.9070411094373,Median,Adjusted to inflation (base: 2010 prices)
+2019,Guria,mean_income,768.7347206006159,Mean,Nominal values
+2019,Guria,median_income,600,Median,Nominal values
+2019,Guria,income_mean_infl,575.3465524429226,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Guria,income_median_infl,449.0598931137663,Median,Adjusted to inflation (base: 2010 prices)
+2019,Samegrelo-Zemo Svaneti,mean_income,979.2438497382152,Mean,Nominal values
+2019,Samegrelo-Zemo Svaneti,median_income,781.216390536511,Median,Nominal values
+2019,Samegrelo-Zemo Svaneti,income_mean_infl,732.8985641595932,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Samegrelo-Zemo Svaneti,income_median_infl,584.6882480550798,Median,Adjusted to inflation (base: 2010 prices)
+2019,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,1000.346926762339,Mean,Nominal values
+2019,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,780.2887159372384,Median,Nominal values
+2019,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,748.6928066809675,Mean,Adjusted to inflation (base: 2010 prices)
+2019,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,583.9939456277571,Median,Adjusted to inflation (base: 2010 prices)
+2019,Mtskheta-Mtianeti,mean_income,835.6114493015108,Mean,Nominal values
+2019,Mtskheta-Mtianeti,median_income,689.9220423307645,Median,Nominal values
+2019,Mtskheta-Mtianeti,income_mean_infl,625.3993135132929,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Mtskheta-Mtianeti,income_median_infl,516.360530976474,Median,Adjusted to inflation (base: 2010 prices)
+2019,Racha-Lechkhumi da Kvemo Svaneti,mean_income,945.1837117755312,Mean,Nominal values
+2019,Racha-Lechkhumi da Kvemo Svaneti,median_income,730.0300498939062,Median,Nominal values
+2019,Racha-Lechkhumi da Kvemo Svaneti,income_mean_infl,707.4068276379882,Mean,Adjusted to inflation (base: 2010 prices)
+2019,Racha-Lechkhumi da Kvemo Svaneti,income_median_infl,546.3786936253249,Median,Adjusted to inflation (base: 2010 prices)
+2020,Kakheti,mean_income,932.7732294474156,Mean,Nominal values
+2020,Kakheti,median_income,646.2871944098131,Median,Nominal values
+2020,Kakheti,income_mean_infl,663.5951086538927,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Kakheti,income_median_infl,459.7827290241468,Median,Adjusted to inflation (base: 2010 prices)
+2020,Tbilisi,mean_income,1086.8788768433212,Mean,Nominal values
+2020,Tbilisi,median_income,900,Median,Nominal values
+2020,Tbilisi,income_mean_infl,773.2292089897767,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Tbilisi,income_median_infl,640.2795223253909,Median,Adjusted to inflation (base: 2010 prices)
+2020,Shida Kartli,mean_income,960.7240233671419,Mean,Nominal values
+2020,Shida Kartli,median_income,754.5555100140807,Median,Nominal values
+2020,Shida Kartli,income_mean_infl,683.479909742268,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Shida Kartli,income_median_infl,536.8071572442303,Median,Adjusted to inflation (base: 2010 prices)
+2020,Kvemo Kartli,mean_income,980.3399207498334,Mean,Nominal values
+2020,Kvemo Kartli,median_income,764.386822427499,Median,Nominal values
+2020,Kvemo Kartli,income_mean_infl,697.4350846380164,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Kvemo Kartli,income_median_infl,543.8013661507805,Median,Adjusted to inflation (base: 2010 prices)
+2020,Samtskhe-Javakheti,mean_income,1164.0545392357085,Mean,Nominal values
+2020,Samtskhe-Javakheti,median_income,906.112642704212,Median,Nominal values
+2020,Samtskhe-Javakheti,income_mean_infl,828.1336492694915,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Samtskhe-Javakheti,income_median_infl,644.6281889373894,Median,Adjusted to inflation (base: 2010 prices)
+2020,Adjara A.R.,mean_income,1220.9462208282453,Mean,Nominal values
+2020,Adjara A.R.,median_income,985.8002294232608,Median,Nominal values
+2020,Adjara A.R.,income_mean_infl,868.6076256187778,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Adjara A.R.,income_median_infl,701.319666670429,Median,Adjusted to inflation (base: 2010 prices)
+2020,Guria,mean_income,813.2562087677317,Mean,Nominal values
+2020,Guria,median_income,633.4485200312706,Median,Nominal values
+2020,Guria,income_mean_infl,578.5681076421795,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Guria,income_median_infl,450.64901758149745,Median,Adjusted to inflation (base: 2010 prices)
+2020,Samegrelo-Zemo Svaneti,mean_income,997.4699326559959,Mean,Nominal values
+2020,Samegrelo-Zemo Svaneti,median_income,794.8108267663603,Median,Nominal values
+2020,Samegrelo-Zemo Svaneti,income_mean_infl,709.6217466832453,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Samegrelo-Zemo Svaneti,income_median_infl,565.4456627789045,Median,Adjusted to inflation (base: 2010 prices)
+2020,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,1015.4038520171918,Mean,Nominal values
+2020,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,811.0387876059634,Median,Nominal values
+2020,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,722.3803259299215,Mean,Adjusted to inflation (base: 2010 prices)
+2020,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,576.9905861285671,Median,Adjusted to inflation (base: 2010 prices)
+2020,Mtskheta-Mtianeti,mean_income,847.8866953830109,Mean,Nominal values
+2020,Mtskheta-Mtianeti,median_income,708.7597664416336,Median,Nominal values
+2020,Mtskheta-Mtianeti,income_mean_infl,603.2049870065426,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Mtskheta-Mtianeti,income_median_infl,504.2270718896719,Median,Adjusted to inflation (base: 2010 prices)
+2020,Racha-Lechkhumi da Kvemo Svaneti,mean_income,1024.14693528327,Mean,Nominal values
+2020,Racha-Lechkhumi da Kvemo Svaneti,median_income,809.0861414594979,Median,Nominal values
+2020,Racha-Lechkhumi da Kvemo Svaneti,income_mean_infl,728.6003450157613,Mean,Adjusted to inflation (base: 2010 prices)
+2020,Racha-Lechkhumi da Kvemo Svaneti,income_median_infl,575.601431304201,Median,Adjusted to inflation (base: 2010 prices)
+2021,Kakheti,mean_income,1081.6936129251599,Mean,Nominal values
+2021,Kakheti,median_income,790.2048830479667,Median,Nominal values
+2021,Kakheti,income_mean_infl,702.3473321396207,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Kakheti,income_median_infl,513.0827110567765,Median,Adjusted to inflation (base: 2010 prices)
+2021,Tbilisi,mean_income,1145.9204314109033,Mean,Nominal values
+2021,Tbilisi,median_income,900.3644378475916,Median,Nominal values
+2021,Tbilisi,income_mean_infl,744.0500232494355,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Tbilisi,income_median_infl,584.6096836659398,Median,Adjusted to inflation (base: 2010 prices)
+2021,Shida Kartli,mean_income,1133.597987707335,Mean,Nominal values
+2021,Shida Kartli,median_income,910.8652488495763,Median,Nominal values
+2021,Shida Kartli,income_mean_infl,736.0490187531275,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Shida Kartli,income_median_infl,591.4278958698577,Median,Adjusted to inflation (base: 2010 prices)
+2021,Kvemo Kartli,mean_income,1064.0805599215946,Mean,Nominal values
+2021,Kvemo Kartli,median_income,866.6666666666666,Median,Nominal values
+2021,Kvemo Kartli,income_mean_infl,690.9111170782827,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Kvemo Kartli,income_median_infl,562.7296065302605,Median,Adjusted to inflation (base: 2010 prices)
+2021,Samtskhe-Javakheti,mean_income,1267.794424472229,Mean,Nominal values
+2021,Samtskhe-Javakheti,median_income,930.6201980770202,Median,Nominal values
+2021,Samtskhe-Javakheti,income_mean_infl,823.1832203590565,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Samtskhe-Javakheti,income_median_infl,604.2548514149939,Median,Adjusted to inflation (base: 2010 prices)
+2021,Adjara A.R.,mean_income,1262.3460560909718,Mean,Nominal values
+2021,Adjara A.R.,median_income,1043.2674422455411,Median,Nominal values
+2021,Adjara A.R.,income_mean_infl,819.6455762874217,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Adjara A.R.,income_median_infl,677.3970891699978,Median,Adjusted to inflation (base: 2010 prices)
+2021,Guria,mean_income,901.0722706681291,Mean,Nominal values
+2021,Guria,median_income,717.5203659534454,Median,Nominal values
+2021,Guria,income_mean_infl,585.0692819173902,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Guria,income_median_infl,465.8884075504972,Median,Adjusted to inflation (base: 2010 prices)
+2021,Samegrelo-Zemo Svaneti,mean_income,1069.6226650047727,Mean,Nominal values
+2021,Samegrelo-Zemo Svaneti,median_income,870,Median,Nominal values
+2021,Samegrelo-Zemo Svaneti,income_mean_infl,694.5096247084437,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Samegrelo-Zemo Svaneti,income_median_infl,564.8939511707616,Median,Adjusted to inflation (base: 2010 prices)
+2021,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,1194.6971050968843,Mean,Nominal values
+2021,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,938.0925687595334,Median,Nominal values
+2021,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,775.7208829315513,Mean,Adjusted to inflation (base: 2010 prices)
+2021,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,609.1066870465542,Median,Adjusted to inflation (base: 2010 prices)
+2021,Mtskheta-Mtianeti,mean_income,954.0102119034563,Mean,Nominal values
+2021,Mtskheta-Mtianeti,median_income,774.0237119137789,Median,Nominal values
+2021,Mtskheta-Mtianeti,income_mean_infl,619.4420667349412,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Mtskheta-Mtianeti,income_median_infl,502.57622175038375,Median,Adjusted to inflation (base: 2010 prices)
+2021,Racha-Lechkhumi da Kvemo Svaneti,mean_income,1144.7740363586943,Mean,Nominal values
+2021,Racha-Lechkhumi da Kvemo Svaneti,median_income,905.3944872438908,Median,Nominal values
+2021,Racha-Lechkhumi da Kvemo Svaneti,income_mean_infl,743.3056650532918,Mean,Adjusted to inflation (base: 2010 prices)
+2021,Racha-Lechkhumi da Kvemo Svaneti,income_median_infl,587.8757118016405,Median,Adjusted to inflation (base: 2010 prices)
+2022,Kakheti,mean_income,1453.0826663507264,Mean,Nominal values
+2022,Kakheti,median_income,1093.3647533158207,Median,Nominal values
+2022,Kakheti,income_mean_infl,843.1697702927667,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Kakheti,income_median_infl,634.4388583305787,Median,Adjusted to inflation (base: 2010 prices)
+2022,Tbilisi,mean_income,1280.8590671897607,Mean,Nominal values
+2022,Tbilisi,median_income,1060,Median,Nominal values
+2022,Tbilisi,income_mean_infl,743.2348279069801,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Tbilisi,income_median_infl,615.0785342136952,Median,Adjusted to inflation (base: 2010 prices)
+2022,Shida Kartli,mean_income,1253.6003205251936,Mean,Nominal values
+2022,Shida Kartli,median_income,1022.9300146102905,Median,Nominal values
+2022,Shida Kartli,income_mean_infl,727.4175921117496,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Shida Kartli,income_median_infl,593.5682018770673,Median,Adjusted to inflation (base: 2010 prices)
+2022,Kvemo Kartli,mean_income,1228.0201636540794,Mean,Nominal values
+2022,Kvemo Kartli,median_income,980,Median,Nominal values
+2022,Kvemo Kartli,income_mean_infl,712.5743794766163,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Kvemo Kartli,income_median_infl,568.6575127636049,Median,Adjusted to inflation (base: 2010 prices)
+2022,Samtskhe-Javakheti,mean_income,1719.552961189598,Mean,Nominal values
+2022,Samtskhe-Javakheti,median_income,1268.5959331027818,Median,Nominal values
+2022,Samtskhe-Javakheti,income_mean_infl,997.7925611993556,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Samtskhe-Javakheti,income_median_infl,736.1189877757679,Median,Adjusted to inflation (base: 2010 prices)
+2022,Adjara A.R.,mean_income,1538.3030739968503,Mean,Nominal values
+2022,Adjara A.R.,median_income,1300,Median,Nominal values
+2022,Adjara A.R.,income_mean_infl,892.6199999343436,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Adjara A.R.,income_median_infl,754.3415985639658,Median,Adjusted to inflation (base: 2010 prices)
+2022,Guria,mean_income,1068.058116364705,Mean,Nominal values
+2022,Guria,median_income,816.0686242580414,Median,Nominal values
+2022,Guria,income_mean_infl,619.7543591213614,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Guria,income_median_infl,473.53423889285176,Median,Adjusted to inflation (base: 2010 prices)
+2022,Samegrelo-Zemo Svaneti,mean_income,1264.352486856966,Mean,Nominal values
+2022,Samegrelo-Zemo Svaneti,median_income,1019.8592925216226,Median,Nominal values
+2022,Samegrelo-Zemo Svaneti,income_mean_infl,733.6566739107764,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Samegrelo-Zemo Svaneti,income_median_infl,591.7863761777508,Median,Adjusted to inflation (base: 2010 prices)
+2022,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",mean_income,1493.336486646511,Mean,Nominal values
+2022,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",median_income,1237.9894429412511,Median,Nominal values
+2022,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_mean_infl,866.5275634852503,Mean,Adjusted to inflation (base: 2010 prices)
+2022,"Imereti, Racha-Lechkhumi and Kvemo Svaneti",income_median_infl,718.359181072013,Median,Adjusted to inflation (base: 2010 prices)
+2022,Mtskheta-Mtianeti,mean_income,1116.3627862553483,Mean,Nominal values
+2022,Mtskheta-Mtianeti,median_income,835.8404883254822,Median,Nominal values
+2022,Mtskheta-Mtianeti,income_mean_infl,647.7837605855249,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Mtskheta-Mtianeti,income_median_infl,485.00711546763847,Median,Adjusted to inflation (base: 2010 prices)
+2022,Racha-Lechkhumi da Kvemo Svaneti,mean_income,1337.3068224160584,Mean,Nominal values
+2022,Racha-Lechkhumi da Kvemo Svaneti,median_income,1066.1950331058683,Median,Nominal values
+2022,Racha-Lechkhumi da Kvemo Svaneti,income_mean_infl,775.9893586090976,Mean,Adjusted to inflation (base: 2010 prices)
+2022,Racha-Lechkhumi da Kvemo Svaneti,income_median_infl,618.6732812723393,Median,Adjusted to inflation (base: 2010 prices)
